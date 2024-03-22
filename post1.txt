@@ -1,0 +1,3 @@
+initialize the repo
+add the file to staging area
+committed to the local repo 
